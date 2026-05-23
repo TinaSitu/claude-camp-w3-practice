@@ -1,0 +1,18 @@
+{
+  "total_students": 15,
+  "students_by_country": {
+    "Singapore": 4,
+    "Australia": 4,
+    "China": 4,
+    "Malaysia": 3
+  },
+  "bet_statistics": {
+    "status_counts": {
+      "completed": 8,
+      "active": 5,
+      "dropped": 2
+    },
+    "completion_rate_pct": 53.33,
+    "total": 15
+  }
+}
